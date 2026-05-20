@@ -1,0 +1,23 @@
+# 环境变量 / 密钥
+.env
+
+# 编译产物
+bot
+*.exe
+
+# 数据库文件
+data/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
